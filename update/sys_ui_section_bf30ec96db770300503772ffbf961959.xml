@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="bf30ec96db770300503772ffbf961959" sys_domain="global" table="x_178741_warehouse_supplier" version="3" view="Simple">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-23 14:16:31</sys_created_on>
+            <sys_id>7730ec96db770300503772ffbf96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_178741_warehouse_supplier" sys_domain="global" view="5b0ce02e0f530700899c3e4ce1050eaa">bf30ec96db770300503772ffbf961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-23 14:16:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-23 14:16:31</sys_created_on>
+            <sys_id>f730ec96db770300503772ffbf96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_178741_warehouse_supplier" sys_domain="global" view="5b0ce02e0f530700899c3e4ce1050eaa">bf30ec96db770300503772ffbf961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-23 14:16:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-23 14:16:31</sys_created_on>
+            <sys_id>7b30ec96db770300503772ffbf96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_178741_warehouse_supplier" sys_domain="global" view="5b0ce02e0f530700899c3e4ce1050eaa">bf30ec96db770300503772ffbf961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-23 14:16:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-23 14:16:31</sys_created_on>
+            <sys_id>fb30ec96db770300503772ffbf96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_178741_warehouse_supplier" sys_domain="global" view="5b0ce02e0f530700899c3e4ce1050eaa">bf30ec96db770300503772ffbf961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-23 14:16:31</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>membership_id</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-23 14:16:31</sys_created_on>
+            <sys_id>7f30ec96db770300503772ffbf96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_178741_warehouse_supplier" sys_domain="global" view="5b0ce02e0f530700899c3e4ce1050eaa">bf30ec96db770300503772ffbf961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-23 14:16:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vip</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-23 14:16:31</sys_created_on>
+            <sys_id>ff30ec96db770300503772ffbf96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_178741_warehouse_supplier" sys_domain="global" view="5b0ce02e0f530700899c3e4ce1050eaa">bf30ec96db770300503772ffbf961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-23 14:16:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_178741_warehouse_supplier</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-23 14:16:30</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf30ec96db770300503772ffbf961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_178741_warehouse_supplier</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Warehouse" source="x_178741_warehouse">70b95892db770300503772ffbf961922</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Warehouse">70b95892db770300503772ffbf961922</sys_scope>
+            <sys_update_name>sys_ui_section_bf30ec96db770300503772ffbf961959</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-23 14:16:30</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Simple" name="Simple">5b0ce02e0f530700899c3e4ce1050eaa</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

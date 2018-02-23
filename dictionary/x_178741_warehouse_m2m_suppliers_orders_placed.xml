@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Warehouse M2m Suppliers Orders Placed" max_length="40" name="x_178741_warehouse_m2m_suppliers_orders_placed" type="collection">
+        <element label="Lead" max_length="40" name="lead" type="boolean"/>
+        <element label="Orders placed" max_length="32" name="orders_placed" reference="x_178741_warehouse_orders" type="reference"/>
+        <element label="Supplier" max_length="32" name="supplier" reference="x_178741_warehouse_supplier" type="reference"/>
+        <index name="index">
+            <element name="supplier"/>
+        </index>
+        <index name="index2">
+            <element name="orders_placed"/>
+        </index>
+    </element>
+</database>

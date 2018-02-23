@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Maintenance" max_length="40" name="x_178741_warehouse_maintenance" sizeclass="2" type="collection">
+        <element label="Warehouse" max_length="32" name="warehouse" reference="x_178741_warehouse_warehouse" type="reference"/>
+    </element>
+</database>
